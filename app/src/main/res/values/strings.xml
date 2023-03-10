@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Noty</string>
+    <string name="add_note">Add Note</string>
+    <string name="search_for_a_note">Search for a Note</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="date">date</string>
+    <string name="delete">Delete</string>
+</resources>
